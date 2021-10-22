@@ -50,7 +50,7 @@ var zodiac = [
 },
 {
 	sign: "virgo",
-	fortune: " might suddenly feel a resurgence of your desire for success at work.",
+	fortune: "Might suddenly feel a resurgence of your desire for success at work.",
 	image: "img/virgo.jpg"
 },
 {
